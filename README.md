@@ -1,2 +1,8 @@
 # music_tidyup_utils
 Utilities I used to tidy up my mess of music files from multiple locations
+
+
+collate.py walks through all the directories listed in the file, and copies .wma and .mp3 files(leaving the originals) to the collated directory.
+As this is a lazy one off utility, directory names are hard coded as variables.
+
+convert.py converts all the music files from .wma to .mp3 if they are not already converted.
