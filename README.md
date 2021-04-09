@@ -1,5 +1,5 @@
 # music_tidyup_utils
-Utilities I used to tidy up my mess of music files from multiple locations
+Utilities I used to tidy up my mess of music files from multiple locations.  I upload these incase they are of any relevance/use to others trying to achieve similar goals.  I strongly suggest testing on a duplicate space or similar incase of issues.  
 
 
 collate.py walks through all the directories listed in the file, and copies .wma and .mp3 files(leaving the originals) to the collated directory.
